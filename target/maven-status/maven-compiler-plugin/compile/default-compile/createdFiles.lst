@@ -1,0 +1,14 @@
+com\zensar\util\ProductConstants.class
+com\zensar\beans\Product.class
+com\zensar\beans\Price.class
+com\zensar\productservice\controller\ProductServiceController.class
+com\zensar\beans\ProductsBean.class
+com\zensar\beans\ColorSwatch.class
+com\zensar\util\MyColorConverter.class
+com\zensar\beans\CustomSpecialOffer.class
+com\zensar\beans\DynamicAttributes.class
+com\zensar\productservice\ProductServiceApplication.class
+com\zensar\beans\PromoMessages.class
+com\zensar\util\NowCustomSerializer.class
+com\zensar\util\ProductManager.class
+com\zensar\beans\Now.class
